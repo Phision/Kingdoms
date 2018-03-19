@@ -1,0 +1,4 @@
+Kingdoms is a 2 player game in which you have to destroy each others kingdom.
+Every kingdom has an army, wealth and city walls for it's defense.
+Upgrade your walls to fend of attacks, trade goods to increase your wealth,
+purchase soldiers to field an army and attack your opponent to be victorious.

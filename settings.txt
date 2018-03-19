@@ -1,0 +1,5 @@
+armycost 50
+defenseup 10
+wealthup 120
+nomoves 1
+maxmoves 100
